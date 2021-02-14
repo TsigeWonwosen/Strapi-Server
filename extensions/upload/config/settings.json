@@ -1,0 +1,8 @@
+{
+  "provider": "cloudinary",
+  "providerOptions": {
+    "cloud_name": "wondeshi",
+    "api_key": "821574434432474",
+    "api_secret": "5n1HvQLPAn5CUhu6CKvcQksW2SQ"
+  }
+}
