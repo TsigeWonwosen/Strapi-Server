@@ -36,6 +36,32 @@
       ],
       "plugin": "upload",
       "required": false
+    },
+    "slug": {
+      "type": "uid",
+      "targetField": "title"
+    },
+    "category": {
+      "type": "enumeration",
+      "enum": [
+        "React",
+        "Graphql",
+        "Node",
+        "JabaScript",
+        "Sasss",
+        "Strapi",
+        "Firebase",
+        "Express",
+        "Mongoose",
+        "NextJs"
+      ],
+      "default": "React"
+    },
+    "date": {
+      "type": "date"
+    },
+    "content": {
+      "type": "richtext"
     }
   }
 }
