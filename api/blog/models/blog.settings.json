@@ -46,9 +46,10 @@
       "enum": [
         "React",
         "Graphql",
+        "Gatsby",
         "Node",
-        "JabaScript",
-        "Sasss",
+        "JavaScript",
+        "Sass",
         "Strapi",
         "Firebase",
         "Express",
